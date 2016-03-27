@@ -1,0 +1,6 @@
+Activity 2 Questions
+Zach Rudy
+APCS Bell 3
+3/26/16
+
+1.  The issue is that the method getresponse doesn't check to make sure keywords are independent and not a part of another word.
