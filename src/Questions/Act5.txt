@@ -1,0 +1,10 @@
+Activity 5 Questions
+Zach Rudy
+APCS Bell 3
+3/26/16
+
+New Responses in getRandomResponse() :
+    -"Please shut up."
+    -"That's a good point."
+    -"Why do you say that?"
+    -"Okay. I'm done."
