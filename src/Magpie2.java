@@ -61,7 +61,7 @@ public class Magpie2
 		else if (statement.indexOf("dog") >= 0
                 || statement.indexOf("cat") >= 0)
         {
-            response = "Tell me more about your pets.";
+            response = "Your pets sound annoying.";
         }
         else if (statement.trim().length() == 0)
         {

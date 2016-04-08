@@ -3,4 +3,10 @@ Zach Rudy
 APCS Bell 3
 3/26/16
 
+Keyword | Response
+------------------
+"no"    | "honestly, your attitude is toxic."
+"dog"   | "your pet(s) sound(s) annoying."
+
 1.  The issue is that the method getresponse doesn't check to make sure keywords are independent and not a part of another word.
+
