@@ -1,0 +1,14 @@
+Activity 4 Questions
+Zach Rudy
+APCS Bell 3
+3/26/16
+
+Statement : Rseponse
+
+"I want to build a robot." : "What would it mean to build a robot?"
+"I want to understand French." : "What would it mean to understand French?"
+"Do you like me?" : "What makes you think I like you?"
+"You confuse me." : "What makes you think I confuse you?"
+
+An example of when the structure doesn't work well is when you have both an instance of "I want"/"I want to" and "I...you". To fix that, I just tested for an occurance inside of the
+    test for "I want"/"I want to"
